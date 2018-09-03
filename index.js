@@ -10,4 +10,5 @@ var conversation = `${topic}`;
 var greeting = "Hello, everybody!"
 var greeting = "Hello"
 var specialGuest = "Neil deGrasse Tyson"
-var greetSpecialGuest = "" + specialGuest + "!"
+var greetSpecialGuest = "Nei deGrasse Tyson"
+`Hello, ${specialGuest}!`
